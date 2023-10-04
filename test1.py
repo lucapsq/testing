@@ -4,7 +4,7 @@ num1 = 5
 num2 = 20
 
 def sum(n1, n2):
-    return n1 + n2
+    return 50
     
 
 # Add two numbers
